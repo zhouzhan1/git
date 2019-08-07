@@ -10,5 +10,5 @@ public class SpringbootDruidApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootDruidApplication.class, args);
     }
-
+    //前端
 }
